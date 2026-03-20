@@ -79,8 +79,3 @@ After restarting, Guru will automatically detect the new synthesizer definition,
 ## 🤝 Special Thanks
   Powerd By ISGK Instruments PRA32-U
 
----
-
-## 📜 License
-MIT License
-
