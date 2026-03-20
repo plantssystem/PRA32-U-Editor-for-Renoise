@@ -59,7 +59,8 @@ After restarting, Guru will automatically detect the new synthesizer definition,
 ---
 
 ## 🛠 Requirements
-- Renoise 3.5 or later  
+- Renoise 3.5 or later
+  https://www.renoise.com/  
 - Guru (Renoise Tools)  
   https://www.renoise.com/tools/guru
 
