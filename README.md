@@ -3,6 +3,23 @@ A parameter editor for the PRA32-U synthesizer, built as a Renoise Tool using **
 
 ---
 
+## 📸 Screenshots
+
+### Main Screen
+![Main Screen](images/pra32-u_editorforrenoise.png)
+
+---
+
+## 🎬 Demo Video
+
+### PRA32-U Editor Demo
+[![PRA32-U Editor Demo](https://img.youtube.com/vi/RyQLyTPSVzM/0.jpg)](https://youtu.be/RyQLyTPSVzM)
+
+### PRA32-U　Demo
+[![PRA32-U Editor Demo 2](https://img.youtube.com/vi/GT4ZKL_Op8Y/0.jpg)](https://youtu.be/GT4ZKL_Op8Y)
+
+---
+
 ## 🎛 Overview
 **PRA32-U Editor for Renoise** provides a way to edit parameters of the hardware synthesizer **PRA32-U** directly inside Renoise.
 
@@ -58,7 +75,7 @@ After restarting, Guru will automatically detect the new synthesizer definition,
 
 ---
 
-## 🤝 Thanks
+## 🤝 Special Thanks
   Powerd By ISGK Instruments PRA32-U
 
 ---
